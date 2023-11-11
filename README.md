@@ -9,6 +9,6 @@ Slides at: https://github.com/xborrat/NEFRoHack/blob/main/slides/hackathon.pdf
 - Conference site: https://www.congresosen.com/2023/
 - PhysioNet: https://physionet.org/
 - MIMIC-IV: https://doi.org/10.13026/07hj-2a80
-- BigQuery: https://www.congresosen.com/2023/
+- BigQuery: https://console.cloud.google.com/bigquery?project=lcp-internal
 - Colab: https://colab.research.google.com/ 
 
